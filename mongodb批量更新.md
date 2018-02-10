@@ -1,7 +1,7 @@
 ---
 title: mongodb批量更新
 tags:
-  - mongodb批量更新
+  - mongodb
 categories:
   - mongodb
 ---
