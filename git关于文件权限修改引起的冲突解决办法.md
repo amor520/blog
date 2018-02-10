@@ -15,5 +15,3 @@ git中可以加入忽略文件权限的配置,具体代码如下：
 `git config core.filemode false`
 
 `cat .git/config`
-
-![](http://7xt252.com1.z0.glb.clouddn.com/Screen%20Shot%202016-06-01%20at%202.46.26%20PM.png)

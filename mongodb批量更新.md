@@ -26,4 +26,4 @@ db.users.update(
 {{multi: true}}
 );
 ```
-{% fi http://ofky2n3dd.bkt.clouddn.com/wallhaven-69371.jpg, mongodb, mongodb %}
+{% fi https://olb7pgc09.qnssl.com/wallhaven-69371.jpg, mongodb, mongodb %}

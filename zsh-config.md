@@ -14,7 +14,7 @@ categories:
 水是眼波横，山是眉峰聚。欲问行人去哪也？眉眼盈盈处。
  --- 王观
 {% endcq %}
-{% fi http://ofky2n3dd.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-27%20%E4%B8%8A%E5%8D%8811.13.14.png, zsh, zsh %}
+{% fi https://olb7pgc09.qnssl.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-27%20%E4%B8%8A%E5%8D%8811.13.14.png, zsh, zsh %}
 <!-- more -->
 ```
 # Path to your oh-my-zsh installation.

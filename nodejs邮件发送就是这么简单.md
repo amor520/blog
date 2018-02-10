@@ -128,5 +128,3 @@ module.exports = sendMail;
 #### 代码地址：
 <div class="github-card" data-github="amor520/nodemailer-nodemailer-smtp-transport" data-width="400" data-height="" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-转载请注明原地址，谢谢！
