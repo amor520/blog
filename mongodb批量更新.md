@@ -7,9 +7,10 @@ categories:
 ---
 
 {% cq %} 生活中没有旁观者的 {% endcq %}
-## momgodb批量更新操作
 
-`version<2.2`
+momgodb批量更新操作
+
+## version<2.2
 
 ```
 db.users.update(
@@ -18,7 +19,8 @@ db.users.update(
 false, true
 );
 ```
-`version>2.2`
+## version>2.2
+
 ```
 db.users.update(
 {userid: {$in: ['1','2','3']}},
